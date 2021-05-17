@@ -8,7 +8,8 @@
     }
 </style>
 
+<small>Svelte Kit</small>
+
 <main>
-    <small>Svelte Kit</small>
     <slot></slot>
 </main>
